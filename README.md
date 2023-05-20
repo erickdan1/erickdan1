@@ -1,9 +1,12 @@
 ### Olá! Me chamo Erick Daniel👋
-#### Sou estudante de graduação em Sistemas de Informação, atualmente me aperfeiçoando em programação na linguagem Python.
-####
+#### Sou estudante de graduação em Sistemas de Informação, atualmente me aperfeiçoando em programação na linguagem Python e suas aplicações.
+#### 
+
 [![Linkedln](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/erick-daniel-06561a215/)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](erickd8887@gmail.com)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/erickdan/) 
+
+<img align="right" height="180em" src="https://github-readme-stats.vercel.app/api?username=erickdan1&show_icons=true&theme=transparent&include_all_commits=true&count_private=true"/>
 
 ## Tecnologias
 <div>
