@@ -6,8 +6,6 @@
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](erickd8887@gmail.com)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/erickdan/) 
 
-<img align="right" height="180em" src="https://github-readme-stats.vercel.app/api?username=erickdan1&show_icons=true&theme=transparent&include_all_commits=true&count_private=true"/>
-
 ## Tecnologias
 <div>
   <img align="center" alt="git" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
