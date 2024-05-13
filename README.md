@@ -21,7 +21,9 @@
 
 <br>
 
-<div align=center>
+<p align="center"><img src="https://github.com/erickdan1/erickdan1/blob/output/github-contribution-grid-snake-dark.svg"></p>
+
+<div align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=erickdan1&show_icons=true&locale=en&layout=compact&theme=transparent" alt="erickdan1" height="195"/>
   <img src="https://github-readme-stats.vercel.app/api?username=erickdan1&show_icons=true&locale=en&theme=transparent" alt="erickdan1" />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=erickdan1&theme=transparent" alt="erickdan1" />
