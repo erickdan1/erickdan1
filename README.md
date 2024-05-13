@@ -1,7 +1,8 @@
 <h1 align="center">Olá! 👋, Me chamo Erick</h1>
 <h3 align="center">Graduando em Sistemas de Informação | Universidade Federal de Pernambuco (UFPE)</h3>
-
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=erickdan1&label=Profile%20views&color=0e75b6&style=flat" alt="erickdan1" /> </p>
+
+<img align="right" alt="Coding" width="230" src="https://i.giphy.com/fByehYIrOIzO8XolJK.webp">
 
 - 🌱 Atualmente estou aprendendo **Java, DSS e Desenvolvimento Web**
 
@@ -21,7 +22,7 @@
 <br>
 
 <div align=center>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=erickdan1&show_icons=true&locale=en&layout=compact" alt="erickdan1" />
-  <img src="https://github-readme-stats.vercel.app/api?username=erickdan1&show_icons=true&locale=en" alt="erickdan1" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=erickdan1&" alt="erickdan1" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=erickdan1&show_icons=true&locale=en&layout=compact&theme=transparent" alt="erickdan1" height="195"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=erickdan1&show_icons=true&locale=en&theme=transparent" alt="erickdan1" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=erickdan1&theme=transparent" alt="erickdan1" />
 </div>
