@@ -10,7 +10,7 @@
 
 - 📫 Como chegar até mim: **erickd8887@gmail.com**
 
-<h3 align="left">Conecte-se comigo:</h3>
+<h3 align="left">Siga-me nas redes sociais:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/erickdan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="erickdan" height="30" width="40" /></a>
 <a href="https://instagram.com/erickdan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="erickdan" height="30" width="40" /></a>
