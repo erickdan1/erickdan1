@@ -4,7 +4,7 @@
 
 <img align="right" alt="Coding" width="200" src="https://i.giphy.com/fByehYIrOIzO8XolJK.webp">
 
-- 🌱 Atualmente estou aprendendo **Java, DSS e Desenvolvimento Web**
+- 🌱 Atualmente estou aprendendo **Java e Desenvolvimento Web**
 
 - 👨‍💻 Todos os meus projetos estão disponíveis em [https://erickdan1.github.io/portfolio/](https://erickdan1.github.io/portfolio/)
 
