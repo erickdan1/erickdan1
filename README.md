@@ -2,9 +2,7 @@
 <h3 align="center">Graduando em Sistemas de Informação | Universidade Federal de Pernambuco (UFPE)</h3>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=erickdan1&label=Profile%20views&color=0e75b6&style=flat" alt="erickdan1" /> </p>
 
-<img align="right" alt="Coding" width="200" src="https://i.giphy.com/fByehYIrOIzO8XolJK.webp">
-
-- 🌱 Atualmente estou aprendendo **Java e Desenvolvimento Web**
+- 🌱 Atualmente estou aprendendo **Back-end, Web Development e Data Science**
 
 - 👨‍💻 Todos os meus projetos estão disponíveis em [https://erickdan1.github.io/portfolio/](https://erickdan1.github.io/portfolio/)
 
