@@ -34,14 +34,6 @@ Passionate about Software Engineering, Data Science, Financial Analytics and Tec
 
 ---
 
-## 🌐 Portfolio
-
-👨‍💻 All my projects are available at:
-
-🔗 <a href="https://erickdan1.github.io/portfolio/">Portfolio Website</a>
-
----
-
 ## 📫 Contact
 
 - Email: **erickd8887@gmail.com**
